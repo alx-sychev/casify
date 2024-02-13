@@ -12,6 +12,7 @@ cat input.txt | casify snake lower > output.txt
 ## TODO
 
 - fix splitting for uppercased input
+- add tests
 - docs
 - read from file and write to file using options
 - default separator style
