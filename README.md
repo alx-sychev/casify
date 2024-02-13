@@ -1,7 +1,7 @@
 # casify
 
+**WIP**  
 Simple CLI tool for converting word cases
-**WIP**
 
 ## Usage
 
